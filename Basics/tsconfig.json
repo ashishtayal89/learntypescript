@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // Where to put the compiled JS files
+    "target": "ES2017", // which level of JS support to target
+    "module": "ESNext" // Specifies the module system we want to use
+  },
+  "include": ["src"] // which files to compile
+}

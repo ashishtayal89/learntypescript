@@ -1,0 +1,10 @@
+{
+  "name": "module1",
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
