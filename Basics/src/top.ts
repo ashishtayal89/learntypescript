@@ -17,6 +17,7 @@ if (typeof myUnknown === "string") {
     // This code runs for { myUnknown| all numbers }
     console.log(myUnknown, "is a number")
 } else {
+    console.log(myUnknown);
     // this would run for "the leftovers"
     //       { myUnknown| anything except string or numbers }
 }
